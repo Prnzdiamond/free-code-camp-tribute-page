@@ -1,0 +1,39 @@
+#main {
+    background-color: aliceblue;
+    max-width: 100%;
+}
+
+.title-head,#img-div {
+    width: 100%;
+    text-align: center;
+}
+p,li {
+    font-size: 1.2rem;
+}
+#image {
+    max-width: 95%;
+}
+
+#tribute-info {
+    max-width: inherit;
+    
+}
+
+#tribute-info h3 {
+    text-align: center;
+}
+
+#tribute-info ul {
+    max-width: 50%;
+    margin: 10px auto;
+}
+
+#tribute-info ul p {
+    font-weight: bold;
+}
+
+#footer {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
